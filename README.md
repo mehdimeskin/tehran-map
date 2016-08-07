@@ -7,3 +7,5 @@ every Mahale has polygon, name and color
 This file is completely compatible with google map
 
 I also provided a image for overall look.
+
+this map is generated and used by Mamanpaz.ir team
